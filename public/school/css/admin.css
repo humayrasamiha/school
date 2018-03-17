@@ -1,0 +1,17 @@
+
+
+.navigation ul li{
+
+	background: #0d0d0d;
+}
+
+.navigation ul li:hover{
+
+	
+}
+
+.navigation ul li a:hover{
+
+	color:#ffffff;
+	background: #9d9d9d ! important;
+}
